@@ -1,0 +1,1 @@
+To run write "node server" in git Bash or command prompt.This is a default simple chat app using socket.io and express. Project based on Traversy Media tutorials.
